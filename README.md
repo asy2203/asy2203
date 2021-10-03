@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @asy2203
-- 👀 I’m interested in coding and programming.
-- 🌱 I’m currently doing my btech in cse and I'm currently in 2nd year.
-- 💞️ I’m looking to collaborate on with the one who will give me knowledge on coding and learning.
-- 📫 How to reach me :- My email id is 'ay248024@gmail.com.
-
-<!---
-asy2203/asy2203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻ABOUT ME
+  -> HOLA!! I'm Aditya.
+  ->  I'm currently doing my Btech degree in CSE.
+  ->  I'm basically a programmer and a coder.
+  ->  I'm a geek who is always having a hunger to learn something new.
+ 👨‍💻TECH STACK
+  -> 💻 C/C++ | PYTHON | SCRATCH
+  
+  CONTACT ME: - Email id : ay248024@gmail.com
+  
